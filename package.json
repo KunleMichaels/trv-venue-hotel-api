@@ -1,0 +1,19 @@
+{
+  "name": "trv-venue-hotel-api",
+  "version": "1.0.0",
+  "description": "A simple mock api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunleMichaels/trv-venue-hotel-api.git"
+  },
+  "author": "KunleMichaels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunleMichaels/trv-venue-hotel-api/issues"
+  },
+  "homepage": "https://github.com/KunleMichaels/trv-venue-hotel-api#readme"
+}
