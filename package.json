@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/KunleMichaels/trv-venue-hotel-api/issues"
   },
-  "homepage": "https://github.com/KunleMichaels/trv-venue-hotel-api#readme"
+  "homepage": "https://github.com/KunleMichaels/trv-venue-hotel-api#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "json-server": "^0.16.3"
+  }
 }
