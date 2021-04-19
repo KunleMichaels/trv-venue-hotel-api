@@ -1,6 +1,8 @@
 
 export type User = {
-
+    id: string;
+    name: string;
+    // payment information
 }
 
 export type Room = {
